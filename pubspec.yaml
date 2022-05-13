@@ -11,6 +11,7 @@ dependencies:
     git:
       url: https://github.com/Rexios80/plus_plugins.git
       ref: feature/fix-exit-crash
+      path: packages/sensors_plus/sensors_plus
   flutter:
     sdk: flutter
 
